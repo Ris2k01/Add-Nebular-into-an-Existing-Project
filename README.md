@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 ## IMPORTANT
-The first step is to Run 'npm install'
+The first step is to Run `npm install`
 
 ## Development server
 
